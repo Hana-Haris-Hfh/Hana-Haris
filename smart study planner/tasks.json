@@ -1,0 +1,5 @@
+[
+  {"id":1001,"subject":"Data Structures","description":"Revise binary search trees and tree traversals","due":"2026-10-25","priority":"High","type":"Study","done":true},
+  {"id":1002,"subject":"Database Management","description":"Complete normalization assignment (1NF, 2NF, 3NF, BCNF)","due":"2026-10-26","priority":"Medium","type":"Assignment","done":false},
+  {"id":1003,"subject":"Operating Systems","description":"Review CPU scheduling algorithms and memory paging","due":"2026-10-24","priority":"Low","type":"Revision","done":true}
+]
